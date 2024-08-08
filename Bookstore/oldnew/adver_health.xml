@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>img\19.jpg</ImageUrl>
+    <NavigateUrl></NavigateUrl>
+    <AlternateText>
+      Order flowers, roses, gifts and more
+    </AlternateText>
+    <border>4px Black</border>
+    <Impressions>20</Impressions>
+  </Ad>
+
+  <Ad>
+      <ImageUrl>img\31.jpg</ImageUrl>
+      <NavigateUrl></NavigateUrl>
+      <AlternateText>
+        Order flowers, roses, gifts and more
+      </AlternateText>
+      <border>4px Black</border>
+      <Impressions>20</Impressions>
+    </Ad>
+
+  <Ad>
+    <ImageUrl>img\24.jpg</ImageUrl>
+    <NavigateUrl></NavigateUrl>
+    <AlternateText>
+      Order flowers, roses, gifts and more
+    </AlternateText>
+    <border>4px Black</border>
+    <Impressions>20</Impressions>
+  </Ad>
+</Advertisements>
